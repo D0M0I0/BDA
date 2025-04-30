@@ -123,6 +123,3 @@ Une session est une connexion à la base de données, elle peut être ouverte pa
 Une transaction est un ensemble d'opérations qui sont exécutées comme une seule unité de travail.
 Une transaction peut être validée (commit) pour rendre les modifications permanentes dans la base de données, ou annulée (rollback) pour annuler toutes les modifications effectuées depuis le
 dernier commit.
-
-# Exercice 2
-
